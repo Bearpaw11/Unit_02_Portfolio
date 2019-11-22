@@ -9,7 +9,13 @@
                               height: 70px;
                               border-top: 8px solid #4aaaa5;
                           }
+                          
+                          .bearpaw {
+                              height: 20px;
+                              width: 30px;
+                          }
                           /* End Footer */
+                          /* Body */
                           
                           .jumbotron-custom {
                               background-color: white;
@@ -23,21 +29,6 @@
                               margin: 0px 20px 10px 0px;
                               width: 300px;
                               float: left;
-                          }
-                          
-                          .bearpaw {
-                              height: 20px;
-                              width: 30px;
-                          }
-                          
-                          .card {
-                              margin-bottom: 10px;
-                          }
-                          
-                          .custom-header {
-                              height: 70px;
-                              background-color: #ffffff !important;
-                              border-bottom: 3px solid #cccccc;
                           }
                           
                           .name-text {
@@ -55,6 +46,18 @@
                               font-family: 'Georgia', Times, 'Times New Roman', serif;
                               color: #4aaaa5;
                           }
+                          /* end body */
+                          /* portfolio page */
+                          
+                          .card {
+                              margin-bottom: 10px;
+                          }
+                          /* End Portfolio */
+                          
+                          .custom-header {
+                              background-color: #ffffff !important;
+                              border-bottom: 3px solid #cccccc;
+                          }
                           
                           .par {
                               font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -63,6 +66,7 @@
                               color: #777777;
                           }
                           /*form*/
+                          /* Contact Page Form*/
                           
                           .type {
                               padding-top: 5px;
@@ -72,7 +76,7 @@
                               width: 800px;
                           }
                           
-                          .type2 {
+                          textarea {
                               margin-top: 5px;
                               margin-bottom: 5px;
                               padding-top: 5px;
@@ -110,7 +114,7 @@
                               .type {
                                   width: 400px;
                               }
-                              .type2 {
+                              textarea {
                                   width: 400px;
                               }
                           }
