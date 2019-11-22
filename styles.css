@@ -93,7 +93,7 @@
                           /* End form */
                           
                           @media (max-width: 800px) {
-                              p {
+                              .par {
                                   font-size: 10px;
                                   line-height: 15px;
                               }
